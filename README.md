@@ -1,1 +1,1 @@
-Arquivo contém os dois exercícios da AC1 de programação estruturada
+Pasta para postar os arquivos das ACS
